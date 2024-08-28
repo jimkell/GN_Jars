@@ -5,4 +5,4 @@ To add another project, copy the tumor and normal folders into this directory an
 java -jar vn020821.jar <folder_name> (for single sample projects)
 java -jar vn_052722.jar <tumor_folder_name> (for tumor-normal projects).
 
-Variant_Navigator_Tutorial1_110323.docx and Variant_Navigator_Tutorial2-110323.docx are for 608_chr1_022321.zip (single sample project). Tumor-normal tutorials are in preparation.
+Variant_Navigator_Tutorial1_110323.docx and Variant_Navigator_Tutorial2-110323.docx are for 608_chr1_022321.zip (single sample project). Tumor_Normal_Tutorial_IG_Genes.docx is for all zip files with "tn" in the file name.
